@@ -2,7 +2,7 @@
 
 This internship explores whether time-series forecasting methods from the [Nixtla ecosystem](https://nixtlaverse.nixtla.io/) can improve forecasts of ambulance demand. Using historical ambulance response data, the project evaluates selected Nixtla models and compares their performance with established ARIMA and Prophet benchmarks.
 
-This work is being completed by Anna McGurk.
+This internship work is being completed by Anna McGurk.
 
 ## Background
 
