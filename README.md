@@ -2,6 +2,8 @@
 
 This internship explores whether time-series forecasting methods from the [Nixtla ecosystem](https://nixtlaverse.nixtla.io/) can improve forecasts of ambulance demand. Using historical ambulance response data, the project evaluates selected Nixtla models and compares their performance with established ARIMA and Prophet benchmarks.
 
+This work is being completed by Anna McGurk.
+
 ## Background
 
 This internship builds on a long-running collaboration between the Peninsula Collaboration for Health Operational Research and Data Science (PenCHORD) group at the University of Exeter and the South West Ambulance Service (SWAST).
